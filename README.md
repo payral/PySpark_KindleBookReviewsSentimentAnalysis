@@ -19,4 +19,4 @@ Each of the algorithms produced good results. They were each able to get above 9
 
 ## Future Work
 
-The purpose of sentiment analysis is to find the negative reviews and address them. Therefore, I realized that false negatives were not as much of a concern as false positives: its okay to have some positive reviews be counted as negatives, but its bad if . In the future, I would want account for this and fine-tune my model. 
+The purpose of sentiment analysis is to find the negative reviews and address them. Therefore, I realized that false negatives were not as much of a concern as false positives: its okay to have some positive reviews be counted as negatives, but its bad if a negative review is seen as positive. In the future, I would want account for this and fine-tune my model. 
